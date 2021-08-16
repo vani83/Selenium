@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/jar_files/webdrivermanager-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/freemarker-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/mongo-java-driver-3.12.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
